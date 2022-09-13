@@ -1,4 +1,4 @@
-# KV5 Anticheat by KeanuV
+# KV5 Anticheat
 
 ## Features 
 
