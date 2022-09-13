@@ -79,16 +79,7 @@ The following bots can be used by this template by adding them into the [/src/bo
 - [discord-superactive-role-bot](https://github.com/peterthehan/discord-superactive-role-bot)
 - [discord-twitter-bot](https://github.com/peterthehan/discord-twitter-bot)
 
-## Troubleshooting
-
-- Remove bots in your server that may conflict in functionality, e.g. multiple reaction role bots.
-- Use [Git Bash](https://git-scm.com/downloads) instead of the Command Prompt (cmd.exe) if you are on Windows.
-- Check that your:
-  - `node` version is `>=16.6.0` by running `node -v`.
-  - `npm` version is `>=7.0.0` by running `npm -v`.
-- If running the application outputs:
-  - `Error: Cannot find module '...'`, try running `npm i` in the project directory.
-  - `DiscordAPIError: Missing Permissions`, verify your bot has the correct `Manage` permissions.
+## Discord
 
 Du hast interesse an unserem Anticheat? Dann schreibe mir doch gerne auf Discord (Username: rxkv0#6682) oder joine auf unseren Discord.  
 
