@@ -1,4 +1,4 @@
-# Create Discord Bot
+# KV5 Anticheat by KeanuV
 
 [![Discord](https://discord.com/api/guilds/258167954913361930/embed.png)](https://discord.gg/WjEFnzC) [![Twitter Follow](https://img.shields.io/twitter/follow/peterthehan.svg?style=social)](https://twitter.com/peterthehan)
 
@@ -92,6 +92,6 @@ The following bots can be used by this template by adding them into the [/src/bo
 
 Visit for more help or information!
 
-<a href="https://discord.gg/WjEFnzC">
-  <img src="https://discord.com/api/guilds/258167954913361930/embed.png?style=banner2" title="Discord server invite" alt="Discord server invite" />
+<a href="https://discord.gg/whitev">
+  <img src="https://discord.com/api/guilds/923193501125050389/embed.png?style=banner2" title="Discord server invite" alt="Discord server invite" />
 </a>
