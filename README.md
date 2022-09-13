@@ -1,87 +1,27 @@
 # KV5 Anticheat by KeanuV
 
-[![Discord](https://discord.com/api/guilds/258167954913361930/embed.png)](https://discord.gg/WjEFnzC) [![Twitter Follow](https://img.shields.io/twitter/follow/peterthehan.svg?style=social)](https://twitter.com/peterthehan)
+## Features 
 
-A module-based Discord bot template.
-
-## Getting started
-
-### Register a Discord bot application
-
-1. Go to Discord's [Developer Portal](https://discord.com/developers/applications).
-2. Create a new application.
-
-   > Take note of the `APPLICATION ID` on the General Information tab page. You will need it to invite the bot to your server in step 5.
-
-3. Go to the Bot tab and add a bot user to your application.
-
-   > Take note of the `TOKEN` on the Bot tab page. You will need it in step 3 of the next section.
-
-   > Keep your token and any file containing it **private**. If it ever leaks or you suspect it may have leaked, simply `regenerate` a new token to invalidate your compromised token.
-
-4. While in the Bot tab, scroll down to the Privileged Gateway Intents section and enable the toggles for both `Presence Intent` and `Server Members Intent`. More information on Gateway Intents can be found here:
-
-   - [Gateway Update FAQ](https://support-dev.discord.com/hc/en-us/articles/360056426994)
-   - [Privileged Intents](https://discord.com/developers/docs/topics/gateway#privileged-intents)
-
-5. Lastly, invite the bot to your server using the following link template: [https://discord.com/oauth2/authorize?scope=bot&client_id=APPLICATION_ID_HERE](https://discord.com/oauth2/authorize?scope=bot&client_id=APPLICATION_ID_HERE)
-
-### Create a Discord bot project
-
-1. Run the following commands to bootstrap a Discord bot project in your working directory:
-
-   > Replace `my-discord-bot` in the commands below with your own preferred project name!
 
    ```
-   npx degit peterthehan/create-discord-bot my-discord-bot
+   Anti Weapon give (Alle arten z.B. Eulen etc.)
    ```
 
    ```
-   cd my-discord-bot
+   Anti Ai Weapon give (Wenn man über den Ai Ordner ein Loadout erhält)
    ```
 
    ```
-   npm i
+   Anti Admin Suite
    ```
 
-2. Run the following command to rename the existing `.env.example` file to `.env`:
-
    ```
-   mv .env.example .env
+   Weitere dinge folgen...
    ```
-
-3. Open the `.env` file and add your Discord bot token.
-
-4. Lastly, run the following command to start the bot:
-
-   ```
-   npm start
-   ```
-
-   Verify the bot is running properly by sending messages in your server. The bot should log these messages in your terminal. If there are any issues, check [Troubleshooting](#troubleshooting).
-
-You're ready to create your own Discord bot! 🎉
-
-If you were directed to follow the instructions found here from another `README`, return back there now and continue with the setup. Feel free to continue reading for more information.
-
-## Bots
-
-The following bots can be used by this template by adding them into the [/src/bots](./src/bots) folder:
-
-- [discord-active-role-bot](https://github.com/peterthehan/discord-active-role-bot)
-- [discord-audit-log-bot](https://github.com/peterthehan/discord-audit-log-bot)
-- [discord-birthday-role-bot](https://github.com/peterthehan/discord-birthday-role-bot)
-- [discord-cron-bot](https://github.com/peterthehan/discord-cron-bot)
-- [discord-dad-bot](https://github.com/peterthehan/discord-dad-bot)
-- [discord-dynamic-voice-channels-bot](https://github.com/peterthehan/discord-dynamic-voice-channels-bot)
-- [discord-reaction-role-bot](https://github.com/peterthehan/discord-reaction-role-bot)
-- [discord-starboard-bot](https://github.com/peterthehan/discord-starboard-bot)
-- [discord-superactive-role-bot](https://github.com/peterthehan/discord-superactive-role-bot)
-- [discord-twitter-bot](https://github.com/peterthehan/discord-twitter-bot)
 
 ## Discord
 
-Du hast interesse an unserem Anticheat? Dann schreibe mir doch gerne auf Discord (Username: rxkv0#6682) oder joine auf unseren Discord.  
+Du hast Fragen zu unserem Anticheat? Dann schreibe mir doch gerne auf Discord (Username: rxkv0#6682) oder joine auf unseren Discord.  
 
 <a href="https://discord.gg/whitev">
   <img src="https://discord.com/api/guilds/923193501125050389/embed.png?style=banner2" title="Discord server invite" alt="Discord server invite" />
