@@ -90,7 +90,7 @@ The following bots can be used by this template by adding them into the [/src/bo
   - `Error: Cannot find module '...'`, try running `npm i` in the project directory.
   - `DiscordAPIError: Missing Permissions`, verify your bot has the correct `Manage` permissions.
 
-Visit for more help or information!
+Du hast interesse an unserem Anticheat? Dann schreibe mir doch gerne auf Discord (Username: rxkv0#6682) oder joine auf unseren Discord.  
 
 <a href="https://discord.gg/whitev">
   <img src="https://discord.com/api/guilds/923193501125050389/embed.png?style=banner2" title="Discord server invite" alt="Discord server invite" />
